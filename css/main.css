@@ -64,3 +64,12 @@ h2, .title{
 a{
   color: #b8d8f8;
 }
+  
+@media (max-width: 800px){
+  h1{
+    font-size:50px;
+  }
+  h2, .title{
+    font-size: 30px;
+  }
+}

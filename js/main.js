@@ -27,7 +27,7 @@ $(document).ready(function(){
       }
     },
     "opacity": {
-      "value": 0.5,
+      "value": 0.3,
       "random": true,
       "anim": {
         "enable": false,
@@ -37,7 +37,7 @@ $(document).ready(function(){
       }
     },
     "size": {
-      "value": 10,
+      "value": 20,
       "random": true,
       "anim": {
         "enable": false,
@@ -92,7 +92,7 @@ $(document).ready(function(){
         "distance": 400,
         "size": 4,
         "duration": 0.3,
-        "opacity": 1,
+        "opacity": 0.7,
         "speed": 3
       },
       "repulse": {
