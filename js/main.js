@@ -1,5 +1,5 @@
 function getRandomColor() {
-    var letters = '89ABCDEF';
+    var letters = '01234567';
     var color = '#';
     for (var i = 0; i < 6; i++ ) {
         color += letters[Math.floor(Math.random() * 8)];
