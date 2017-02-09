@@ -52,6 +52,7 @@ h2, .title{
   margin-right: auto;
   align-self: center;
   width: 80%;
+  border-radius: 10px;
 }
 
 .invisible{
