@@ -6,11 +6,11 @@ body{
 .masthead{
   z-index: -1;
   position: fixed;
-  background-color: #18b6a4; 
-  background-image: url(""); 
-  background-repeat: no-repeat; 
-  background-size: cover; 
-  background-position: 50% 50%; 
+  background-color: #18b6a4;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
   margin-top:0;
   height: 100%;
   width: 100%;
@@ -64,8 +64,9 @@ h2, .title{
 
 a{
   color: #b8d8f8;
+  transition: 400ms;
 }
-  
+
 @media (max-width: 800px){
   h1{
     font-size:50px;

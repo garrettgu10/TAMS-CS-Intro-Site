@@ -36,7 +36,7 @@ $(document).ready(function(){
         }
       },
       "opacity": {
-        "value": 0.2,
+        "value": 0.1,
         "random": true,
         "anim": {
           "enable": false,
@@ -46,7 +46,7 @@ $(document).ready(function(){
         }
       },
       "size": {
-        "value": 20,
+        "value": 50,
         "random": true,
         "anim": {
           "enable": false,
@@ -99,10 +99,10 @@ $(document).ready(function(){
         },
         "bubble": {
           "distance": 400,
-          "size": 4,
+          "size": 20,
           "duration": 0.3,
-          "opacity": 0.6,
-          "speed": 2
+          "opacity": 0.15,
+          "speed": 1
         },
         "repulse": {
           "distance": 200,
